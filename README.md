@@ -9,13 +9,13 @@ This script automates the process of installing Kali Linux in Termux on Android.
 
 ## Installation
 
-1. Clone this repository or download the `install_kali.sh` script to your local machine.
+1. Clone this repository or download the `os_shell_install_kali_linux.sh` script to your local machine.
 
 2. Transfer the script to your Android device, for example using ADB or any file transfer method you prefer.
 
 3. Open Termux on your Android device.
 
-4. Navigate to the directory where you placed `install_kali.sh` using the `cd` command.
+4. Navigate to the directory where you placed `os_shell_install_kali_linux.sh` using the `cd` command.
 
 5. Run the script using the following command:
 
